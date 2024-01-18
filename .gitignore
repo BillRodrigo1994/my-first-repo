@@ -1,0 +1,7 @@
+# sensitive information
+.env
+
+.env.local
+
+.env.production
+
